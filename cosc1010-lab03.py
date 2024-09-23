@@ -1,12 +1,12 @@
-# Your Name Here
+# Ethan Hall
 # UWYO COSC 1010
-# Submission Date
+# 09.23.2024
 # Lab 03 
-# Lab Section: 
-# Sources, people worked with, help given to: 
-# your
-# comments
-# here
+# Lab Section: 14
+# n/a 
+# i
+# have
+# none
 
 
 
